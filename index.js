@@ -1,0 +1,1 @@
+console.log("hello world! this is my very first npm package.")
